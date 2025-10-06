@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm **Software Developer** also **Industrial Engineer**
-I'm currently working as a Frontend Developer and have a big interest in mobile technologies. I'm getting ready to start working on projects with React Native. I really enjoy being part of a team, following good coding practices, and writing clean, high-quality code. I especially love code pairing sessions—they’re a great way to learn from others and come up with creative solutions together.
+I'm currently working as a Full Stack Developer and have a big interest in mobile technologies. I'm getting ready to start working on projects with React Native. I really enjoy being part of a team, following good coding practices, and writing clean, high-quality code. I especially love code pairing sessions—they’re a great way to learn from others and come up with creative solutions together.
 
 # 🌐 Connect with me:
 <p align="left">
