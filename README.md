@@ -12,7 +12,7 @@ Currently a product engineer at Fizbot, working as a contractor through my own c
 
 ## Stack
 
-C#, .NET, ASP.NET Core, EF Core, PostgreSQL, Redis · React, Next.js, TypeScript · React Native, Expo · Docker
+Go, C#, .NET, ASP.NET Core, EF Core, PostgreSQL, Redis · React, Next.js, TypeScript · React Native, Expo · Docker
 
 ## Contact
 
